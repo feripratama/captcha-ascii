@@ -1,6 +1,6 @@
 ## Captcha ASCII
 
-[!example(images/login_example.png)]
+![example](images/login_example.png)
 
 run :
 
